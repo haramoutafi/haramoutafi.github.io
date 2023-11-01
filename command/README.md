@@ -6,3 +6,6 @@ bandit1
 ls
 cat ./-
 
+bandit2
+ls 
+cat"spaces in this filename"
