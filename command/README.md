@@ -30,3 +30,9 @@ cat"spaces in this filename"
  cd inhere
  find -size 1033c
  cat ./maybehere07/.file2
+
+ bandit7
+ ls
+ ls -a
+ find / -user bandit7 -group bandit6 -size 33c 2>/dev/null
+ cat /var/lib/dpkg/info/bandit7.passsword
