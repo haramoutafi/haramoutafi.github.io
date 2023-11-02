@@ -25,3 +25,8 @@ cat"spaces in this filename"
      cat./-file05
       cat./-file06
        cat./-file07
+ bandit6
+ ls
+ cd inhere
+ find -size 1033c
+ cat ./maybehere07/.file2
