@@ -49,3 +49,7 @@ cat data.txt | sort | uniq -u
 bandit10
 ls
 cat data.txt | strings | grep=
+
+bandit11
+ls
+cat data.txt | base64 --decode
