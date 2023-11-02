@@ -41,3 +41,7 @@ cat"spaces in this filename"
 bandit8
 ls
 cat data.txt | grep millionth
+
+bandit9
+ls
+cat data.txt | sort | uniq -u
