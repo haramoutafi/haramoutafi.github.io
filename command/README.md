@@ -36,3 +36,8 @@ cat"spaces in this filename"
  ls -a
  find / -user bandit7 -group bandit6 -size 33c 2>/dev/null
  cat /var/lib/dpkg/info/bandit7.passsword
+
+
+bandit8
+ls
+cat data.txt | grep millionth
