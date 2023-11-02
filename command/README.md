@@ -45,3 +45,7 @@ cat data.txt | grep millionth
 bandit9
 ls
 cat data.txt | sort | uniq -u
+
+bandit10
+ls
+cat data.txt | strings | grep=
